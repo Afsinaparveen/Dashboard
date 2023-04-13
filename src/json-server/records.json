@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "credit": 1000000,
+        "value": 25000,
+        "month": "January",
+        "color": "grey"
+    },
+    {
+        "id": 2,
+        "credit": 2500000,
+        "value": 100000,
+        "month": "february",
+        "color": "grey"
+    },
+    {
+        "id": 3,
+        "credit": 2000000,
+        "value": 120000,
+        "month": "march",
+        "color": "grey"
+    },
+    {
+        "id": 4,
+        "credit": 1500000,
+        "value": 23000,
+        "month": "april",
+        "color": "grey"
+    },
+    {
+        "id": 5,
+        "credit": 120000,
+        "value": 5000,
+        "month": "may",
+        "color": "grey"
+    },
+    {
+        "id": 6,
+        "credit": 900000,
+        "value": 50000,
+        "month": "june",
+        "color": "grey"
+    },
+    {
+        "id": 7,
+        "credit": 500000,
+        "value": 80000,
+        "month": "July",
+        "color": "grey"
+    },
+    {
+        "id": 8,
+        "credit": 900000,
+        "value": 70000,
+        "month": "august",
+        "color": "grey"
+    },
+    {
+        "id": 9,
+        "credit": 700000,
+        "value": 90000,
+        "month": "september",
+        "color": "grey"
+    },
+    {
+        "id": 10,
+        "credit": 420000,
+        "value": 60000,
+        "month": "october",
+        "color": "grey"
+    },
+    {
+        "id": 11,
+        "credit": 700000,
+        "value": 60000,
+        "month": "november",
+        "color": "grey"
+    },
+    {
+        "id": 12,
+        "credit": 750000,
+        "value": 70000,
+        "month": "december",
+        "color": "grey"
+    }
+]

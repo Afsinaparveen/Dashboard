@@ -1,38 +1,67 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aliceblue;
+}
+.main{
+  padding: 50px ;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  color: rgb(16, 16, 16);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main-inner{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 100%;
+  padding-top: 50px;
+  justify-content: space-between;
+}
+.left{
+  width: 50%;
+  overflow-y:auto;
+  height: 500px;
+}
+.right{
+  width: 50%;
+}
+label {
+  padding-right: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+input {
+  /* margin-bottom: 20px; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+td{
+  padding: 20px 20px;
+}
+
+
