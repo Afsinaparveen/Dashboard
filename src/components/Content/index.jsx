@@ -38,6 +38,7 @@ function Datacontents() {
                             <td>{item.value}</td>
                             <td>{item.credit - item.value}</td>
                           </tr>
+                          
                         )
                       })}
                     </tbody>
@@ -58,7 +59,6 @@ function Datacontents() {
 
         </div>
       </div>
-
       {console.log(Records)}
     </>
   );
