@@ -46,8 +46,8 @@ function Datacontents() {
               </div>
               <div className="right">
                 <BarChart
-                  xAxis='Account balance'
-                  yAxis=""
+                  xAxis="Months"
+                  yAxis="Account balance"
                   height="400"
                   width={800}
                   data={blanceArray}
